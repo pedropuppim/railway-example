@@ -1,0 +1,23 @@
+{
+  "name": "railway-example",
+  "version": "1.0.0",
+  "description": "railway-example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedropuppim/railway-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedropuppim/railway-example/issues"
+  },
+  "homepage": "https://github.com/pedropuppim/railway-example#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
